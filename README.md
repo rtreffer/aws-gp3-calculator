@@ -1,4 +1,4 @@
-# AWS/GP3 vs. GP2 calculator
+# [AWS/GP3 vs. GP2 calculator](https://rtreffer.github.io/aws-gp3-calculator/)
 
 A not-so-simple calculator for the GP3 parameters and find equivalent GP2 setups.
 
